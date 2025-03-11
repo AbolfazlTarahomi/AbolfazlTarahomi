@@ -10,7 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1138988561988539964" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+<iframe style="width: 100%; height: 100px; overflow: hidden;" src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=1138988561988539964" height="714" width="345" frameborder="0" scrolling="no" ></iframe>" width="100" height="100" scrolling="no">Iframes not supported</iframe>
+
 
 - 🔭 I’m currently working on [Shadnic](https://shadnic.ir/)
 
